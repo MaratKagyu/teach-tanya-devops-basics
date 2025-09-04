@@ -75,3 +75,4 @@ echo "LANGUAGE=\"en_US:en\"" >> /etc/default/locale
 
 # Exit the machine and login back again
 ```
+
